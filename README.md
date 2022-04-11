@@ -1,6 +1,6 @@
 # Stock Analysis With Excel VBA
 
-Click here to view the Excel file: [VBA Challenge - Stock Analysis](docs/VBA_Challenge.md)
+Click here to view the Excel file: [VBA Challenge - Stock Analysis](main/VBA_Challenge.md)
 
 ## Overview of Project
 
@@ -10,18 +10,20 @@ The purpose of this project was to refactor a Microsoft Excel VBA code to collec
 ## Results
 
 ### Analysis
-Here is the refactored code:
+**Here is the refactored code:**
+
 ![This is an image](https://github.com/dgeroux/Stock-Analysis/blob/main/VBA_Refactored_Code.png)
 
-Here is the 2017 stock analysis with the execution time with the refactored code:
+**Here is the 2017 stock analysis with the execution time with the refactored code:**
+
 ![This is an image](https://github.com/dgeroux/Stock-Analysis/blob/main/VBA_Challenge_2017.png)
 
-**Prior to the implementation of the refactored code, the processing time for the 2017 stock analysis was 1.24 seconds - that's a 78.58% decrease!
+**Prior to the implementation of the refactored code, the processing time for the 2017 stock analysis was 1.24 seconds - that's a 78.58% decrease!**
 
 Here is the 2018 stock analysis with the execution time with the refactired code:
 ![This is an image](https://github.com/dgeroux/Stock-Analysis/blob/main/VBA_Challenge_2018.png)
 
-**Prior to the implementation of the refactored code, the processing time for the 2018 stock analysis was 1.19 seconds - that's a 80.67% decrease!
+**Prior to the implementation of the refactored code, the processing time for the 2018 stock analysis was 1.19 seconds - that's a 80.67% decrease!**
 
 ## Summary 
 
