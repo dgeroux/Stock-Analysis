@@ -1,6 +1,6 @@
 # Stock Analysis With Excel VBA
 
-Click here to view the Excel file: [VBA Challenge - Stock Analysis](blob/main/VBA_Challenge.xlsm.xlsm)
+Click here to view the Excel file: [VBA Challenge - Stock Analysis](https://github.com/dgeroux/Stock_Analysis/blob/main/VBA_Challenge.xlsm.xlsm)
 
 ## Overview of Project
 
